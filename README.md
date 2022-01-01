@@ -3,14 +3,10 @@ Projeto Saara
 <br>
 <br>
 apenas html e css
+
 <br>
-
-<img align="center" alt="henry-html-css" height="280" width="530" scr="https://user-images.githubusercontent.com/96191361/147855271-351d9fce-7f02-4951-b813-2d9b4805abf1.png">
-
-
+<img align="center" alt="Henry-HTML" height="280" width="530" src="https://user-images.githubusercontent.com/96191361/147855323-c0e69ab8-4b8d-4e5e-9c80-fc1b6cfbdab1.png">
 <hr>
-
-<br>
 open source 👍
 <br>
 Vê ai: 
